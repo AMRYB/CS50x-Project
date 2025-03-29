@@ -1,7 +1,3 @@
-Your README looks solid—clear, structured, and informative. Here's a lightly refined version with a few improvements for clarity, formatting consistency, and professional polish:
-
----
-
 # **Login System with JavaScript, Python, and MySQL**
 
 📽️ **Video Demo**: https://youtu.be/5L4S0YfvxWE
